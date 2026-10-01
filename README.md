@@ -29,7 +29,7 @@ Foram utilizadas técnicas de ETL e tratamento de dados, além de tabelas dinâm
 - Revenue by Subscription Type
 - Revenue by Auto-Renewal
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 - Microsoft Excel
 - Power Query
@@ -38,10 +38,10 @@ Foram utilizadas técnicas de ETL e tratamento de dados, além de tabelas dinâm
 - Segmentação de Dados
 - ETL e tratamento de dados
 
-## 📸 Dashboard
+## Dashboard
 
-images/Dashboard_final.PNG
+![Dashboard Xbox Game Pass](https://github.com/alessandroo-rgb/xbox-gamepass-sales-dashboard/blob/main/images/Dashboard_final.PNG)
 
-## 👨‍💻 Autor
+## Autor
 
 Alessandro Oliveira
