@@ -40,7 +40,7 @@ Foram utilizadas técnicas de ETL e tratamento de dados, além de tabelas dinâm
 
 ## 📸 Dashboard
 
-![Dashboard XboxPNG
+Dashboard_final.PNG
 
 ## 👨‍💻 Autor
 
