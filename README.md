@@ -1,2 +1,2 @@
 # xbox-gamepass-sales-dashboard
-Dashboard de vendas desenvolvido no bootcamp Santander - Excel com IA | DIO
+Dashboard interativo de vendas do Xbox Game Pass desenvolvido no Excel durante o bootcamp Santander - Excel com IA.
