@@ -40,7 +40,7 @@ Foram utilizadas técnicas de ETL e tratamento de dados, além de tabelas dinâm
 
 ## 📸 Dashboard
 
-Dashboard_final.PNG
+images/Dashboard_final.PNG
 
 ## 👨‍💻 Autor
 
